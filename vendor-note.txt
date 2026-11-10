@@ -1,0 +1,1 @@
+QR generation and camera scanning libraries are loaded from public CDNs (QRCode.js and html5-qrcode) in this starter build.
